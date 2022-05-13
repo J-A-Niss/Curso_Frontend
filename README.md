@@ -1,14 +1,14 @@
 # Curso_Frontend
 
-#GIT
+# GIT
 
-##Conceitos de Versionamento
+## Conceitos de Versionamento
 
--Historico
--Controle de Versao
--Quem alterou oque e quando
--Todos arquivos
--Evolucao continua
+ - Historico
+ - Controle de Versao
+ - Quem alterou oque e quando
+ - Todos arquivos
+ - Evolucao continua
 
 Arquivo A | Ver. 1 | Ver. 2
 Arquivo B | Ver. 1 | Ver. 2
@@ -23,8 +23,8 @@ Arquivo B | Ver. 1 | Ver. 2
 
 Informacao de alteracao
 
--apos testado todo codigo
+ - apos testado todo codigo
 
 ## Git Flow
 
-Fluxo do Git
+ - Fluxo do Git
