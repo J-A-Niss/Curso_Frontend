@@ -1,7 +1,9 @@
 # Curso_Frontend
 
 #GIT
+
 ##Conceitos de Versionamento
+
 -Historico
 -Controle de Versao
 -Quem alterou oque e quando
@@ -18,8 +20,11 @@ Arquivo B | Ver. 1 | Ver. 2
 ## Clonar projeto
 
 ## Commits
+
 Informacao de alteracao
+
 -apos testado todo codigo
 
 ## Git Flow
+
 Fluxo do Git
